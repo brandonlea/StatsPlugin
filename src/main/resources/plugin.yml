@@ -1,0 +1,4 @@
+name: Stats
+version: '${project.version}'
+main: dev.sha256.stats.Stats
+api-version: 1.18
